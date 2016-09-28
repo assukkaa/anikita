@@ -24,3 +24,17 @@
 
 
 Устройство для платежей https://choosecase.com/# 
+
+p2p сеть
+http://netsukuku.freaknet.org/ 
+https://ru.wikipedia.org/wiki/Netsukuku
+https://netsukuku.wiki.zoho.com/HomePage.html
+http://download.savannah.gnu.org/releases/netsukuku/
+http://pyntk.blogspot.ru/
+https://github.com/MissValeska/VoIP-Test
+https://www.reddit.com/r/netsukuku/
+
+https://github.com/Netsukuku/netsukuku
+
+
+Где установлена наша программа - должна сделать компьютер пользователя узлом Netsukuku.
